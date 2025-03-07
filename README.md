@@ -1,2 +1,2 @@
 # receita-omelette
-Exercico glauco receita omelete
+Exercico glauco receita .omelete
